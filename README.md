@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NLastya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m starting frontend developer
+- 🌱 I’m currently use techonologies: JS+HTML+CSS, JS React.
 - 📫 How to reach me: nlastya1994@mail.ru
 
 <!---
