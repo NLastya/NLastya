@@ -1,3 +1,4 @@
+About me:
 - 👋 Hi, I’m @NLastya
 - 👀 I’m starting frontend developer
 - 🌱 I’m currently use techonologies: JS+HTML+CSS, JS React.
