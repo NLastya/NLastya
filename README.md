@@ -1,7 +1,7 @@
 __About me:__
 - 👋 Hi, I’m @NLastya
-- 👀 I’m junior frontend developer
-- 🌱 I’m currently use techonologies: JS+HTML+CSS, JS React.
+- 👀 I’m frontend developer
+- 🌱 I’m currently use techonologies: JS React, Vue Js, Typescript, websockets and other.
 - 📫 How to reach me: nlastya1994@mail.ru
 
 __Languages and Tools:__
