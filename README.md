@@ -1,8 +1,5 @@
 __About me:__
-- 👋 Hi, I’m @NLastya
-- 👀 I’m frontend developer
-- 🌱 I’m currently use techonologies: JS React, Vue Js, Typescript, websockets and other.
-- 📫 How to reach me: nlastya1994@mail.ru
+Good Day, I,m Nastya, node.js fullstack-developer.
 
 __Languages and Tools:__
 
@@ -11,6 +8,7 @@ __Languages and Tools:__
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
+![node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=nodedotjs&logoColor=417E38)
 
 
 <!---
