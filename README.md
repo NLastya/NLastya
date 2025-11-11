@@ -1,5 +1,5 @@
 __About me:__
-Good Day, I,m Nastya, node.js fullstack-developer.
+Good Day, I,m Nastya, node.js fullstack-developer, most of time I work with node.js scripts for collecting metrics, frontend on React v18-19, and python's backend.
 
 __Languages and Tools:__
 
